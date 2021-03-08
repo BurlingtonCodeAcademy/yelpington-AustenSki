@@ -1,6 +1,7 @@
 {
     "id": "mr-mikes",
     "name": "Mr.Mikes Pizza",
+    "coor":"[44.4761539, -73.2111793]",
     "address": "206 Main St.",
     "phone number": "864-0072",
     "hours": "11:00 am - 10:00 pm",
