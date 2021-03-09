@@ -1,0 +1,11 @@
+{
+  "id": "bento",
+  "name": "Bento Japanese Delicatessen",
+  "coor":"[44.4769991, -73.2118512]",
+  "address": "197 College St.",
+  "phone number": "497-2494",
+  "hours": "11:30 am - 9:00 pm",
+  "notes": [
+    "Casual, modern sushi storefront with rolls & limited cooked fare, plus imported snacks & groceries"
+  ]
+}
